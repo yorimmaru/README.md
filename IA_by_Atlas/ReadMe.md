@@ -1,0 +1,1 @@
+# IA dans django
